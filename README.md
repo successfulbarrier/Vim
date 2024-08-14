@@ -2,7 +2,11 @@
 <h1>Vision Mamba </h1>
 <h3>Efficient Visual Representation Learning with Bidirectional State Space Model</h3>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> parent of f4345a4... 1
 =======
 
 >>>>>>> parent of f4345a4... 1
